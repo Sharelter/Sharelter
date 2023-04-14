@@ -1,4 +1,4 @@
-Nyaa~ here is __Sharelter__
+Nyaa~ here is _*Sharelter*_
 
 ![header-pusheen-trans](https://user-images.githubusercontent.com/63940407/232030755-f7d7d3aa-e301-4f66-aa8b-b9250fb87d7a.gif)
 
