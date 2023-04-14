@@ -2,6 +2,6 @@
 
 ![header-pusheen-trans](https://user-images.githubusercontent.com/63940407/232030755-f7d7d3aa-e301-4f66-aa8b-b9250fb87d7a.gif)
 
-## About me ٩(◦`꒳´◦)۶ ٩(๑•̀ω•́๑)۶ (๑• . •๑) ଘ(੭ˊ꒳​ˋ)੭ ​​​
+## About me ٩(◦`꒳´◦)۶ ଘ(੭ˊ꒳​ˋ)੭ ​​​
 - 🔭 I’m currently working on [ysyx](https://ysyx.oscc.cc/)
 - 🌱 I’m currently learning [ICS-PA](https://nju-projectn.github.io/ics-pa-gitbook/ics2022/index.html) of NJU
